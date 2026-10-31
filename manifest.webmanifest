@@ -1,7 +1,7 @@
 {
   "name": "Stahlball",
   "short_name": "Stahlball",
-  "description": "Arena-Ballspiel Orks gegen Trolle",
+  "description": "Arena-Ballspiel mit acht Fantasy-Völkern",
   "lang": "de",
   "start_url": "/",
   "scope": "/",
