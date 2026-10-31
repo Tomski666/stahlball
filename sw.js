@@ -1,5 +1,5 @@
 // Bei jeder Änderung am Spiel die Versionsnummer erhöhen.
-const CACHE = 'stahlball-v1';
+const CACHE = 'stahlball-v2';
 const ASSETS = ['/', '/index.html', '/manifest.webmanifest', '/icons/icon.svg', '/icons/icon-192.png', '/icons/icon-512.png', '/fonts/teko-latin-500-normal.woff2', '/fonts/teko-latin-600-normal.woff2', '/fonts/teko-latin-700-normal.woff2', '/fonts/barlow-semi-condensed-latin-400-normal.woff2', '/fonts/barlow-semi-condensed-latin-500-normal.woff2', '/fonts/barlow-semi-condensed-latin-600-normal.woff2'];
 
 self.addEventListener('install', e => {
